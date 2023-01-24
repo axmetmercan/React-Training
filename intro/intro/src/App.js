@@ -18,6 +18,7 @@ export default class App extends Component {
     // this.removeFromCart = this.removeFromCart.bind(this); 
   }
 
+
   // titleProduct = "Product List";
   // titleCategory = "Category List";
   // state={currentCategory:""}
@@ -132,16 +133,3 @@ export default class App extends Component {
   }
 }
 
-
-// function App() {
-
-//   let titleProduct="Product List";
-//   let titleCategory="Category List";
-
-
-//   return (
-
-//   );
-// }
-
-// export default App;
